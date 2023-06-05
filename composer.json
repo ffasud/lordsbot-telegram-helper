@@ -1,0 +1,16 @@
+{
+    "name": "bermudi/lb-controller",
+    "description": "Simple script to start and stop LordsBot accounts from the Telegram Interface",
+    "type": "project",
+    "minimum-stability": "beta",
+    "require": {
+        "danog/madelineproto": "^8"
+    },
+    "license": "AGPL-3.0-only",
+    "authors": [
+        {
+            "name": "bermudi",
+            "email": "contact@bermudi.dev"
+        }
+    ]
+}
