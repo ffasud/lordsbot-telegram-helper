@@ -1,0 +1,5 @@
+/session.madeline/
+/vendor/
+/composer.phar
+/script_state.json
+*.log
